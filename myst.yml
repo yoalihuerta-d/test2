@@ -13,15 +13,7 @@ project:
     - file: intro.md
     - title: Introducción
       children: 
-      - file: cap1/objetivo.md
-      - file: cap1/recursos.md
-      - file: cap1/kpis.md
-     
-    - title: Ejecución
-      children: 
-      - file: cap2/pasos.md
-      - file: cap2/diagrama.md
-
+      - file: test/testdoc.md
    
    
   
